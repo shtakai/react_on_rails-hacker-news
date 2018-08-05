@@ -1,5 +1,7 @@
 # README
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/react_on_rails-hacker-news.svg)](https://www.guardrails.io)
+
 ## How to start
 
 ```bash
